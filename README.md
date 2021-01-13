@@ -14,6 +14,8 @@ First repo for CS3030 HugaValle Spring2021
 
 `git status` check the status of the repository
 
+`git checkout` recovers what was deleted or just does not exist on your local machine
+
 ## Basic Bash commands
 
 `pwd` print current working directory
